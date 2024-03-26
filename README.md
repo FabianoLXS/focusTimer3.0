@@ -2,7 +2,8 @@
 
 "FocusTimer" Challange (harder) | Create a Pomodoro timer with more functions.
 
-![Desafio "FocusTimer"](https://github.com/fabianolxs/focus-timer-3.0/blob/main/assets/focus-timer-3.0.png)
+![image](https://github.com/FabianoLXS/focusTimer3.0/assets/47800473/7174f3b3-c2ac-40a9-b353-f061088466b7)
+
 
 The functionality of the button in the upper right corner is to switch between Light Mode and Dark Mode.
 
